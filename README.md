@@ -1,4 +1,4 @@
-##WP plugin for block schedules##
+## WP plugin for block schedules ##
 So the plan here is to add a couple of pages:
   * View your upcoming schedule monthly
   * Block off time on your schedule with a reason (doesn't require approval by anyone)
